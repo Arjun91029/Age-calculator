@@ -24,5 +24,5 @@ function age() {
     let y = y2 - y1;
 
     document.getElementById("age").innerHTML = 
-    "Your age is" + y + " years " + m + " months " + d + " days.";
+    "Your age is " + y + " years " + m + " months " + d + " days.";
 }
